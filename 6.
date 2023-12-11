@@ -1,3 +1,9 @@
+Write a program that uses a stack to convert a decimal number into an equivalent binary
+number.
+
+
+ANSWER
+
 #include <stdio.h>
 
 #define MAX_SIZE 100
